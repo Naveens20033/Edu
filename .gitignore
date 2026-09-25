@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Local configuration and tooling
+.env
+.vscode/*
+!.vscode/extensions.json
